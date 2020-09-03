@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Telegram</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="settings_default_username">Alex Shivyrtalov</string>
+    <string name="settings_default_status">В сетиНе в сети</string>
+    <string name="settings_text_account">Аккаунт</string>
+    <string name="settings_default_number">+79511915420</string>
+    <string name="settings_label_phone_number">Нажмите, чтобы изменить номер телефона</string>
+    <string name="settings_default_login">alexshivyrtalov</string>
+    <string name="settings_label_login">Имя пользователя</string>
+    <string name="settings_default_bio">О себе</string>
+    <string name="settings_label_bio">Расскажите немного о себе</string>
+    <string name="settings_menu_change_name">Изменить имя</string>
+    <string name="settings_menu_exit">Выход</string>
+    <string name="cd_register_image123">register_image123</string>
+    <string name="register_text_enter_code">Введите код</string>
+    <string name="register_text_we_sent">Мы отправили SMS с кодом проверки на Ваш телефон</string>
+    <string name="register_hint_default_code">- - - - - -</string>
+    <string name="register_title_your_phone">Ваш телефон</string>
+    <string name="register_toast_enter_phone">Введите свой номер телефона</string>
+    <string name="register_phone_hint">+71234567891</string>
+    <string name="settings_hint_input_name">Имя</string>
+    <string name="settings_hint_input_surname">Фамилия</string>
+    <string name="settings_toast_name_is_empty">Имя не может быть пустым</string>
+    <string name="toast_data_update">Данные обновлены</string>
+    <string name="settings_toast_surname_is_empty">Фамилия не может быть пустым</string>
+    <string name="settings_hint_input_username">username</string>
+    <string name="settings_change_username">Имя мользователя не должно быть пустым</string>
+    <string name="settings_hint_input_bio">Расскажите немного о себе</string>
+    <string name="register_name_hint">Имя</string>
+    <string name="register_surname_hint">Фамилия</string>
+    <string name="chat_fragment_message_is_empty">Введите сообщение...</string>
+</resources>
